@@ -6,16 +6,16 @@ React-Slick (Carousel)
 React-Icons
 React-Context-Api
 
-Pages:
+### Pages
 1. Home.Page.jsx
 2. Movie.Page.jsx
 3. Play.Page.jsx
 
-Layouts (HOC's)
+### Layouts (HOC's)
 1. Default.HOC.jsx (Home-1 & Play-3)
 2. Movie.HOC.jsx (Movie-2)
 
-Components
+### Components
 1. Cast
     Cast.Component.jsx
 2. Entertainment
@@ -35,7 +35,15 @@ Components
 
 
 
-
+## Links
+React - https://legacy.reactjs.org/docs/getting-started.html
+Tialwind - https://tailwindcss.com/
+         - https://tailwindcss.com/docs/installation
+React-slick - https://react-slick.neostack.com/        
+NPM Axios - https://www.npmjs.com/package/axios
+Axios - https://axios-http.com/docs/example
+HeadlessUI - https://headlessui.com/react/popover#installation
+React-Icons - https://react-icons.github.io/react-icons/
 
 
 Building an Appln
@@ -51,9 +59,16 @@ Building an Appln
  9. npm install @headlessui/react
 10. npm install react-icons --save
     --React icons
+11. npm i react-router-dom
 
-
-// Headless API - tool for react (optional)
+- Headless API - tool for react (optional)
 
 
  npm *
+
+
+Install Prettier Extension:
+1.ctrl + shift + p
+    >> Format Document (Configure Pop-Up (Ok))
+2.ctrl + ,
+    >> Editor: Format On Save
